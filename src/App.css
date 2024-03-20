@@ -1,0 +1,70 @@
+/* change bootstrap primary color */
+:root {
+  --primary-color: #1d418e; /* Blue color */
+}
+/* Override Bootstrap's primary color */
+.btn-primary,
+.btn-primary:hover {
+  background-color: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+}
+.btn-primary:focus,
+.btn-primary.focus {
+  box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.5) !important;
+}
+/* END - change bootstrap primary color */
+
+/* change bootstrap danger color */
+:root {
+  --danger-color: #a61932; /* Blue color */
+}
+/* Override Bootstrap's danger color */
+.btn-danger,
+.btn-danger:hover {
+  background-color: var(--danger-color) !important;
+  border-color: var(--danger-color) !important;
+}
+.btn-danger:focus,
+.btn-danger.focus {
+  box-shadow: 0 0 0 0.25rem #a61932 !important;
+}
+/* END - change bootstrap danger color */
+
+/* fireworksdark color */
+:root {
+  --fireworksdark-color: #9e0085; /* Blue color */
+}
+/* fireworksdark color */
+.btn-fireworksdark,
+.btn-fireworksdark:hover {
+  background-color: var(--fireworksdark-color) !important;
+  border-color: var(--fireworksdark-color) !important;
+}
+.btn-fireworksdark:focus,
+.btn-fireworksdark.focus {
+  box-shadow: 0 0 0 0.25rem #9e0085 !important;
+}
+/* END - fireworksdark color */
+
+/* ultraviolet color */
+:root {
+  --ultraviolet-color: #7f35b2; /* Blue color */
+}
+/* ultraviolet color */
+.btn-ultraviolet,
+.btn-ultraviolet:hover {
+  background-color: var(--ultraviolet-color) !important;
+  border-color: var(--ultraviolet-color) !important;
+}
+.btn-ultraviolet:focus,
+.btn-ultraviolet.focus {
+  box-shadow: 0 0 0 0.25rem #7f35b2 !important;
+}
+/* END - ultraviolet color */
+
+/* change table striped bg color */
+.table-striped > tbody > tr:nth-child(2n + 1) > td,
+.table-striped > tbody > tr:nth-child(2n + 1) > th {
+  background-color: #c2a8f0;
+}
+/* END - change table striped bg color */

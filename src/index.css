@@ -1,0 +1,9 @@
+#root {
+  background-color: #F7F9FC;
+}
+
+.wrapper {
+  align-items: stretch;
+  display: flex;
+  width: 100%;
+}
