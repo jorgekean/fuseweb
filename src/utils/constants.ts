@@ -1,6 +1,3 @@
-export const clientId: string = '2e8c21f3-5f43-4fdf-b8cb-0286c79d4090' // MARS -'1a722503-55a8-4491-bb47-dcee13ed3d3f'
-export const directoryId: string = '76e3921f-489b-4b7e-9547-9ea297add9b5' // MARS - '76e3921f-489b-4b7e-9547-9ea297add9b5'
-export const authority: string = "https://login.microsoftonline.com/"
 
 export const redirectUrl = () => {
     var currentURL = window.location.href;
@@ -46,15 +43,15 @@ export const adminEmails: string[] = [
 ]
 
 
-export const timeOptions = [30, 60, 120, 180, 240 ];
+export const timeOptions = [30, 60, 120, 180, 240];
 
 export interface Holiday {
-    Date: Date; 
+    Date: Date;
     Holiday: string;
     HolidayType: "Legal" | "Special";
-  }
-  
-  export const YearlyHoliday: Holiday[] = [
+}
+
+export const YearlyHoliday: Holiday[] = [
     { Date: new Date(2025, 0, 1), Holiday: "New Year's Day", HolidayType: "Legal" },
     { Date: new Date(2025, 0, 29), Holiday: "Chinese New year", HolidayType: "Special" },
     { Date: new Date(2025, 3, 1), Holiday: "Eid’l Fitr (Feast of Rama...", HolidayType: "Legal" },
@@ -76,4 +73,4 @@ export interface Holiday {
     { Date: new Date(2025, 11, 25), Holiday: "Christmas Day", HolidayType: "Legal" },
     { Date: new Date(2025, 11, 30), Holiday: "Rizal Day", HolidayType: "Legal" },
     { Date: new Date(2025, 11, 31), Holiday: "Last day of the year", HolidayType: "Special" },
-  ];
+];
