@@ -6,4 +6,6 @@ export interface BillingManagerModel {
   billingType?: "Billable" | "NonBillable"
   allocatedHours?: number
   actualHours?: number
+  isArchived?: boolean
+  isSynced: number 
 }

@@ -1,0 +1,1166 @@
+[
+    {
+        "id": -1,
+        "description": "Select location to be used on timesheet upload."
+    },
+    {
+        "id": 965,
+        "description": "AD.Andorra"
+    },
+    {
+        "id": 1150,
+        "description": "AE.UnArabEm"
+    },
+    {
+        "id": 963,
+        "description": "AF.Afghanistn"
+    },
+    {
+        "id": 968,
+        "description": "AG.AntguaBarb"
+    },
+    {
+        "id": 964,
+        "description": "AL.Albania"
+    },
+    {
+        "id": 1257,
+        "description": "AM.Armenia"
+    },
+    {
+        "id": 966,
+        "description": "AO.Angola"
+    },
+    {
+        "id": 1256,
+        "description": "AR.Argentn"
+    },
+    {
+        "id": 1259,
+        "description": "AT.Austria"
+    },
+    {
+        "id": 1258,
+        "description": "AU.Australia"
+    },
+    {
+        "id": 969,
+        "description": "AW.Aruba"
+    },
+    {
+        "id": 9701,
+        "description": "AZ.Azerbaijn"
+    },
+    {
+        "id": 982,
+        "description": "BA.BosniaHerz"
+    },
+    {
+        "id": 974,
+        "description": "BB.Barbados"
+    },
+    {
+        "id": 973,
+        "description": "BD.Bandgldsh"
+    },
+    {
+        "id": 976,
+        "description": "BE.Belgium"
+    },
+    {
+        "id": 989,
+        "description": "BF.BrknFaso"
+    },
+    {
+        "id": 988,
+        "description": "BG.Bulgaria"
+    },
+    {
+        "id": 972,
+        "description": "BH.Bahrain"
+    },
+    {
+        "id": 990,
+        "description": "BI.Burundi"
+    },
+    {
+        "id": 9789,
+        "description": "BJ.Benin"
+    },
+    {
+        "id": 979,
+        "description": "BM.Bermuda"
+    },
+    {
+        "id": 987,
+        "description": "BN.BrunDarslm"
+    },
+    {
+        "id": 981,
+        "description": "BO.Bolivia"
+    },
+    {
+        "id": 984,
+        "description": "BR.Brazil.Other"
+    },
+    {
+        "id": 985,
+        "description": "BR.Brazil.Rio"
+    },
+    {
+        "id": 986,
+        "description": "BR.Brazil.Sao"
+    },
+    {
+        "id": 971,
+        "description": "BS.Bahamas"
+    },
+    {
+        "id": 980,
+        "description": "BT.Bhutan"
+    },
+    {
+        "id": 983,
+        "description": "BW.Botswan"
+    },
+    {
+        "id": 975,
+        "description": "BY.Belarus"
+    },
+    {
+        "id": 977,
+        "description": "BZ.Belize"
+    },
+    {
+        "id": 991,
+        "description": "CA.Alberta"
+    },
+    {
+        "id": 992,
+        "description": "CA.BC"
+    },
+    {
+        "id": 993,
+        "description": "CA.Manitoba"
+    },
+    {
+        "id": 994,
+        "description": "CA.NewBrun"
+    },
+    {
+        "id": 995,
+        "description": "CA.NewfounLa"
+    },
+    {
+        "id": 997,
+        "description": "CA.NovaScot"
+    },
+    {
+        "id": 998,
+        "description": "CA.Nunavut"
+    },
+    {
+        "id": 996,
+        "description": "CA.NwestTer"
+    },
+    {
+        "id": 999,
+        "description": "CA.Ontario"
+    },
+    {
+        "id": 1000,
+        "description": "CA.P.E.I."
+    },
+    {
+        "id": 1001,
+        "description": "CA.Quebec"
+    },
+    {
+        "id": 1002,
+        "description": "CA.Sask"
+    },
+    {
+        "id": 1003,
+        "description": "CA.Yukon"
+    },
+    {
+        "id": 1006,
+        "description": "CF.CenAfrica"
+    },
+    {
+        "id": 1019,
+        "description": "CG.Congo"
+    },
+    {
+        "id": 1133,
+        "description": "CH.Swtzlnd.Lau"
+    },
+    {
+        "id": 1132,
+        "description": "CH.Swtzlnd.Oth"
+    },
+    {
+        "id": 1134,
+        "description": "CH.Swtzlnd.Zur"
+    },
+    {
+        "id": 1021,
+        "description": "CI.CoteIvoire"
+    },
+    {
+        "id": 1008,
+        "description": "CL.Chile"
+    },
+    {
+        "id": 1261,
+        "description": "CM.Cameroon"
+    },
+    {
+        "id": 1010,
+        "description": "CN.China.Beij"
+    },
+    {
+        "id": 1011,
+        "description": "CN.China.Guang"
+    },
+    {
+        "id": 1009,
+        "description": "CN.China.Other"
+    },
+    {
+        "id": 1012,
+        "description": "CN.China.Shang"
+    },
+    {
+        "id": 1013,
+        "description": "CN.China.Shenz"
+    },
+    {
+        "id": 1014,
+        "description": "CN.China.Wuhan"
+    },
+    {
+        "id": 1017,
+        "description": "CO.Colombia"
+    },
+    {
+        "id": 1020,
+        "description": "CR.CostaRica"
+    },
+    {
+        "id": 1023,
+        "description": "CU.Cuba"
+    },
+    {
+        "id": 1024,
+        "description": "CY.Cyprus"
+    },
+    {
+        "id": 1025,
+        "description": "CZ.CzechRep"
+    },
+    {
+        "id": 1273,
+        "description": "DE.Germany"
+    },
+    {
+        "id": 1027,
+        "description": "DJ.Djibouti"
+    },
+    {
+        "id": 1026,
+        "description": "DK.Denmark"
+    },
+    {
+        "id": 1028,
+        "description": "DM.Dominica"
+    },
+    {
+        "id": 1029,
+        "description": "DO.DomicRep"
+    },
+    {
+        "id": 1255,
+        "description": "DZ.Algeria"
+    },
+    {
+        "id": 1031,
+        "description": "EC.Ecuador"
+    },
+    {
+        "id": 1036,
+        "description": "EE.Estonia"
+    },
+    {
+        "id": 1032,
+        "description": "EG.Egypt"
+    },
+    {
+        "id": 1035,
+        "description": "ER.Eritrea"
+    },
+    {
+        "id": 1248,
+        "description": "ES.Spain"
+    },
+    {
+        "id": 1037,
+        "description": "ET.Ethiopia"
+    },
+    {
+        "id": 1040,
+        "description": "FI.Finland"
+    },
+    {
+        "id": 1039,
+        "description": "FJ.Fiji"
+    },
+    {
+        "id": 1041,
+        "description": "FR.France"
+    },
+    {
+        "id": 1044,
+        "description": "GA.Gabon"
+    },
+    {
+        "id": 1151,
+        "description": "GB.UK"
+    },
+    {
+        "id": 1050,
+        "description": "GD.Grenada"
+    },
+    {
+        "id": 1046,
+        "description": "GE.Georgia"
+    },
+    {
+        "id": 1042,
+        "description": "GF.FrGuiana"
+    },
+    {
+        "id": 4261,
+        "description": "GG.Guernsey"
+    },
+    {
+        "id": 1047,
+        "description": "GH.Ghana"
+    },
+    {
+        "id": 1048,
+        "description": "GI.Gibraltar"
+    },
+    {
+        "id": 1045,
+        "description": "GM.Gambia"
+    },
+    {
+        "id": 1054,
+        "description": "GN.Guinea"
+    },
+    {
+        "id": 1051,
+        "description": "GP.Guadloupe"
+    },
+    {
+        "id": 1034,
+        "description": "GQ.EqtrlGuin"
+    },
+    {
+        "id": 1049,
+        "description": "GR.Greece"
+    },
+    {
+        "id": 1053,
+        "description": "GT.Guatemala"
+    },
+    {
+        "id": 1052,
+        "description": "GU.Guam"
+    },
+    {
+        "id": 1055,
+        "description": "GW.GuineaBiss"
+    },
+    {
+        "id": 1056,
+        "description": "GY.Guyana"
+    },
+    {
+        "id": 1264,
+        "description": "HK.HongKong"
+    },
+    {
+        "id": 1059,
+        "description": "HN.Honduras"
+    },
+    {
+        "id": 1022,
+        "description": "HR.Croatia"
+    },
+    {
+        "id": 1057,
+        "description": "HT.Haiti"
+    },
+    {
+        "id": 1265,
+        "description": "HU.Hungary"
+    },
+    {
+        "id": 1268,
+        "description": "ID.Indones"
+    },
+    {
+        "id": 1269,
+        "description": "IE.Ireland"
+    },
+    {
+        "id": 1062,
+        "description": "IL.Israel"
+    },
+    {
+        "id": 1267,
+        "description": "IN.India"
+    },
+    {
+        "id": 1061,
+        "description": "IQ.Iraq"
+    },
+    {
+        "id": 1060,
+        "description": "IR.Iran"
+    },
+    {
+        "id": 1266,
+        "description": "IS.Iceland"
+    },
+    {
+        "id": 1270,
+        "description": "IT.Italy"
+    },
+    {
+        "id": 1063,
+        "description": "JM.Jamaica"
+    },
+    {
+        "id": 1064,
+        "description": "JO.Jordan"
+    },
+    {
+        "id": 1271,
+        "description": "JP.Japan"
+    },
+    {
+        "id": 1066,
+        "description": "KE.Kenya"
+    },
+    {
+        "id": 1069,
+        "description": "KG.Kyrngstn"
+    },
+    {
+        "id": 1260,
+        "description": "KH.Camboda"
+    },
+    {
+        "id": 1067,
+        "description": "KI.Kiribati"
+    },
+    {
+        "id": 1018,
+        "description": "KM.Comoros"
+    },
+    {
+        "id": 1115,
+        "description": "KP.NorthKorea"
+    },
+    {
+        "id": 1131,
+        "description": "KR.SouthKorea"
+    },
+    {
+        "id": 1068,
+        "description": "KW.Kuwait"
+    },
+    {
+        "id": 1005,
+        "description": "KY.CaymanIs"
+    },
+    {
+        "id": 1065,
+        "description": "KZ.Kazakstn"
+    },
+    {
+        "id": 1070,
+        "description": "LA.Laos"
+    },
+    {
+        "id": 1072,
+        "description": "LB.Lebanon"
+    },
+    {
+        "id": 1076,
+        "description": "LI.Liechstein"
+    },
+    {
+        "id": 1249,
+        "description": "LK.SriLanka"
+    },
+    {
+        "id": 1074,
+        "description": "LR.Liberia"
+    },
+    {
+        "id": 1073,
+        "description": "LS.Lesotho"
+    },
+    {
+        "id": 1077,
+        "description": "LT.Lithuania"
+    },
+    {
+        "id": 1078,
+        "description": "LU.Luxembg"
+    },
+    {
+        "id": 1071,
+        "description": "LV.Latvia"
+    },
+    {
+        "id": 1075,
+        "description": "LY.Libya"
+    },
+    {
+        "id": 1100,
+        "description": "MA.Morocco"
+    },
+    {
+        "id": 1096,
+        "description": "MC.Monaco"
+    },
+    {
+        "id": 1095,
+        "description": "MD.Moldova"
+    },
+    {
+        "id": 1098,
+        "description": "ME.Montegro"
+    },
+    {
+        "id": 1081,
+        "description": "MG.Madagascar"
+    },
+    {
+        "id": 1087,
+        "description": "MH.Marshall ls"
+    },
+    {
+        "id": 1080,
+        "description": "MK.Macedon"
+    },
+    {
+        "id": 1085,
+        "description": "ML.Mali"
+    },
+    {
+        "id": 1102,
+        "description": "MM.Myanmar"
+    },
+    {
+        "id": 1097,
+        "description": "MN.Mongolia"
+    },
+    {
+        "id": 1079,
+        "description": "MO.Macao"
+    },
+    {
+        "id": 1088,
+        "description": "MQ.Martinique"
+    },
+    {
+        "id": 1089,
+        "description": "MR.Mauritania"
+    },
+    {
+        "id": 1099,
+        "description": "MS.Montserrat"
+    },
+    {
+        "id": 1086,
+        "description": "MT.Malta"
+    },
+    {
+        "id": 1090,
+        "description": "MU.Mauritius"
+    },
+    {
+        "id": 1084,
+        "description": "MV.Maldives"
+    },
+    {
+        "id": 1082,
+        "description": "MW.Malawi"
+    },
+    {
+        "id": 1093,
+        "description": "MX.Mexico.City"
+    },
+    {
+        "id": 1092,
+        "description": "MX.Mexico.Oth"
+    },
+    {
+        "id": 1083,
+        "description": "MY.Malaysia"
+    },
+    {
+        "id": 1101,
+        "description": "MZ.Mozambique"
+    },
+    {
+        "id": 1103,
+        "description": "NA.Namibia"
+    },
+    {
+        "id": 1111,
+        "description": "NE.Niger"
+    },
+    {
+        "id": 1112,
+        "description": "NG.Nigeria"
+    },
+    {
+        "id": 1110,
+        "description": "NI.Nicaragua"
+    },
+    {
+        "id": 1106,
+        "description": "NL.Netherlands"
+    },
+    {
+        "id": 1117,
+        "description": "NO.Norway"
+    },
+    {
+        "id": 1105,
+        "description": "NP.Nepal"
+    },
+    {
+        "id": 1109,
+        "description": "NZ.NewZealnd"
+    },
+    {
+        "id": 1118,
+        "description": "OM.Oman"
+    },
+    {
+        "id": 1121,
+        "description": "PA.Panama"
+    },
+    {
+        "id": 1124,
+        "description": "PE.Peru"
+    },
+    {
+        "id": 1043,
+        "description": "PF.FrPoly"
+    },
+    {
+        "id": 1122,
+        "description": "PG.PapNewGn"
+    },
+    {
+        "id": 1125,
+        "description": "PH.Philpines"
+    },
+    {
+        "id": 1119,
+        "description": "PK.Pakistan"
+    },
+    {
+        "id": 1262,
+        "description": "PL.Poland"
+    },
+    {
+        "id": 1127,
+        "description": "PR.PuerRico"
+    },
+    {
+        "id": 1263,
+        "description": "PT.Portugl"
+    },
+    {
+        "id": 1120,
+        "description": "PW.Palau"
+    },
+    {
+        "id": 1123,
+        "description": "PY.Paraguay"
+    },
+    {
+        "id": 1128,
+        "description": "QA.Qatar"
+    },
+    {
+        "id": 1129,
+        "description": "RE.Reunion Is"
+    },
+    {
+        "id": 1130,
+        "description": "RO.Romania"
+    },
+    {
+        "id": 1238,
+        "description": "RS.Serbia"
+    },
+    {
+        "id": 1226,
+        "description": "RU.RussianFed"
+    },
+    {
+        "id": 1227,
+        "description": "RW.Rwanda"
+    },
+    {
+        "id": 1236,
+        "description": "SA.Saudi Arabia"
+    },
+    {
+        "id": 1244,
+        "description": "SB.Solomon Is"
+    },
+    {
+        "id": 1239,
+        "description": "SC.Seychelles"
+    },
+    {
+        "id": 1250,
+        "description": "SD.Sudan"
+    },
+    {
+        "id": 1254,
+        "description": "SE.Sweden"
+    },
+    {
+        "id": 1241,
+        "description": "SG.Singapre"
+    },
+    {
+        "id": 1243,
+        "description": "SI.Slovenia"
+    },
+    {
+        "id": 1242,
+        "description": "SK.Slovakia"
+    },
+    {
+        "id": 1240,
+        "description": "SL.SieraLeone"
+    },
+    {
+        "id": 1234,
+        "description": "SM.SanMarino"
+    },
+    {
+        "id": 1237,
+        "description": "SN.Senegal"
+    },
+    {
+        "id": 1245,
+        "description": "SO.Somalia"
+    },
+    {
+        "id": 1251,
+        "description": "SR.Suriname"
+    },
+    {
+        "id": 1235,
+        "description": "ST.SaoTomePrin"
+    },
+    {
+        "id": 1033,
+        "description": "SV.ElSalvador"
+    },
+    {
+        "id": 1135,
+        "description": "SY.Syria"
+    },
+    {
+        "id": 1253,
+        "description": "SZ.Swaziland"
+    },
+    {
+        "id": 1146,
+        "description": "TC.Trks&Cacos"
+    },
+    {
+        "id": 1007,
+        "description": "TD.Chad"
+    },
+    {
+        "id": 1139,
+        "description": "TH.Thailand"
+    },
+    {
+        "id": 1137,
+        "description": "TJ.Tajikistan"
+    },
+    {
+        "id": 1030,
+        "description": "TL.TimorLeste"
+    },
+    {
+        "id": 1145,
+        "description": "TM.Trkmenstn"
+    },
+    {
+        "id": 1143,
+        "description": "TN.Tunisia"
+    },
+    {
+        "id": 1141,
+        "description": "TO.Tonga"
+    },
+    {
+        "id": 1144,
+        "description": "TR.Turkey"
+    },
+    {
+        "id": 1142,
+        "description": "TT.TrindTobgo"
+    },
+    {
+        "id": 1147,
+        "description": "TV.Tuvalu"
+    },
+    {
+        "id": 1136,
+        "description": "TW.Taiwan"
+    },
+    {
+        "id": 1138,
+        "description": "TZ.Tanzania"
+    },
+    {
+        "id": 1149,
+        "description": "UA.Ukraine"
+    },
+    {
+        "id": 1148,
+        "description": "UG.Uganda"
+    },
+    {
+        "id": 1154,
+        "description": "US.AK"
+    },
+    {
+        "id": 1153,
+        "description": "US.AL"
+    },
+    {
+        "id": 1156,
+        "description": "US.AR"
+    },
+    {
+        "id": 1155,
+        "description": "US.AZ"
+    },
+    {
+        "id": 1157,
+        "description": "US.CA"
+    },
+    {
+        "id": 1159,
+        "description": "US.CO.Den"
+    },
+    {
+        "id": 1158,
+        "description": "US.CO.Other"
+    },
+    {
+        "id": 1160,
+        "description": "US.CT"
+    },
+    {
+        "id": 1162,
+        "description": "US.DC"
+    },
+    {
+        "id": 1161,
+        "description": "US.DE"
+    },
+    {
+        "id": 1163,
+        "description": "US.FL"
+    },
+    {
+        "id": 1164,
+        "description": "US.GA"
+    },
+    {
+        "id": 1165,
+        "description": "US.HI"
+    },
+    {
+        "id": 1170,
+        "description": "US.IA"
+    },
+    {
+        "id": 1166,
+        "description": "US.ID"
+    },
+    {
+        "id": 1168,
+        "description": "US.IL.Chi"
+    },
+    {
+        "id": 1167,
+        "description": "US.IL.Other"
+    },
+    {
+        "id": 1169,
+        "description": "US.IN"
+    },
+    {
+        "id": 1171,
+        "description": "US.KS"
+    },
+    {
+        "id": 1172,
+        "description": "US.KY"
+    },
+    {
+        "id": 1173,
+        "description": "US.LA"
+    },
+    {
+        "id": 1176,
+        "description": "US.MA"
+    },
+    {
+        "id": 1175,
+        "description": "US.MD"
+    },
+    {
+        "id": 1174,
+        "description": "US.ME"
+    },
+    {
+        "id": 1178,
+        "description": "US.MI.Det"
+    },
+    {
+        "id": 1179,
+        "description": "US.MI.GR"
+    },
+    {
+        "id": 1177,
+        "description": "US.MI.Other"
+    },
+    {
+        "id": 1180,
+        "description": "US.MN"
+    },
+    {
+        "id": 1182,
+        "description": "US.MO.Other"
+    },
+    {
+        "id": 1183,
+        "description": "US.MO.StLouis"
+    },
+    {
+        "id": 1181,
+        "description": "US.MS"
+    },
+    {
+        "id": 1184,
+        "description": "US.MT"
+    },
+    {
+        "id": 1192,
+        "description": "US.NC"
+    },
+    {
+        "id": 1193,
+        "description": "US.ND"
+    },
+    {
+        "id": 1185,
+        "description": "US.NE"
+    },
+    {
+        "id": 1187,
+        "description": "US.NH"
+    },
+    {
+        "id": 1188,
+        "description": "US.NJ"
+    },
+    {
+        "id": 1189,
+        "description": "US.NM"
+    },
+    {
+        "id": 1186,
+        "description": "US.NV"
+    },
+    {
+        "id": 1191,
+        "description": "US.NY.NYC"
+    },
+    {
+        "id": 1190,
+        "description": "US.NY.Other"
+    },
+    {
+        "id": 1195,
+        "description": "US.OH.Cinn"
+    },
+    {
+        "id": 1196,
+        "description": "US.OH.Clev"
+    },
+    {
+        "id": 1197,
+        "description": "US.OH.Col"
+    },
+    {
+        "id": 1194,
+        "description": "US.OH.Other"
+    },
+    {
+        "id": 1198,
+        "description": "US.OK"
+    },
+    {
+        "id": 1199,
+        "description": "US.OR.Other"
+    },
+    {
+        "id": 1200,
+        "description": "US.OR.Port"
+    },
+    {
+        "id": 1201,
+        "description": "US.PA.Other"
+    },
+    {
+        "id": 1203,
+        "description": "US.PA.Pgh"
+    },
+    {
+        "id": 1202,
+        "description": "US.PA.Phl"
+    },
+    {
+        "id": 1204,
+        "description": "US.RI"
+    },
+    {
+        "id": 1205,
+        "description": "US.SC"
+    },
+    {
+        "id": 1206,
+        "description": "US.SD"
+    },
+    {
+        "id": 1207,
+        "description": "US.TN"
+    },
+    {
+        "id": 1208,
+        "description": "US.TX"
+    },
+    {
+        "id": 1209,
+        "description": "US.UT"
+    },
+    {
+        "id": 1211,
+        "description": "US.VA"
+    },
+    {
+        "id": 1210,
+        "description": "US.VT"
+    },
+    {
+        "id": 1212,
+        "description": "US.WA"
+    },
+    {
+        "id": 1214,
+        "description": "US.WI"
+    },
+    {
+        "id": 1213,
+        "description": "US.WV"
+    },
+    {
+        "id": 1215,
+        "description": "US.WY"
+    },
+    {
+        "id": 1152,
+        "description": "UY.Uruguay"
+    },
+    {
+        "id": 1216,
+        "description": "UZ.Uzbekistan"
+    },
+    {
+        "id": 1218,
+        "description": "VA.Holy See"
+    },
+    {
+        "id": 1232,
+        "description": "VC.StVincGren"
+    },
+    {
+        "id": 1219,
+        "description": "VE.Venezla"
+    },
+    {
+        "id": 4768,
+        "description": "VI.Virgin Is US"
+    },
+    {
+        "id": 1220,
+        "description": "VN.VietNam"
+    },
+    {
+        "id": 1217,
+        "description": "VU.Vanuatu"
+    },
+    {
+        "id": 4768,
+        "description": "WF.WallisFut"
+    },
+    {
+        "id": 1233,
+        "description": "WS.Samoa"
+    },
+    {
+        "id": 1221,
+        "description": "YE.Yemen"
+    },
+    {
+        "id": 1091,
+        "description": "YT.Mayotte"
+    },
+    {
+        "id": 1246,
+        "description": "ZA.S.Africa"
+    },
+    {
+        "id": 1222,
+        "description": "ZM.Zambia"
+    },
+    {
+        "id": 1223,
+        "description": "ZW.Zimbabwe"
+    }
+]

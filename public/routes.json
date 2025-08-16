@@ -1,0 +1,11 @@
+{
+    "routes": [
+      {
+        "route": "/*",
+        "serve": "/index.html"
+      }
+    ],
+    "mimeTypes": {
+      ".crx": "application/x-chrome-extension"
+    }
+  }

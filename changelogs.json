@@ -1,0 +1,87 @@
+{
+    "changelogs": [
+        {
+            "releaseDate": "2025-08-06",
+            "version": "1.0.2",
+            "changes": [
+                {
+                    "shortDesc": "Time Tracking Enhancements – improved flexibility and smoother tracking experience.",
+                    "subChanges": [
+                        {
+                            "shortDesc": "Additional time entry formats: Time can now be entered in decimal format (e.g., 1.5h = 01:30:00)."
+                        },
+                        {
+                            "shortDesc": "Comments section: Add comments directly in the Time Tracking page and upload them to Oracle with task descriptions."
+                        },
+                        {
+                            "shortDesc": "Uninterrupted time tracking: After editing an entry, tracking will resume once it is saved."
+                        }
+                    ]
+                },
+                {
+                    "shortDesc": "Usability Improvements – quality-of-life updates for a more intuitive experience.",
+                    "subChanges": [
+                        {
+                            "shortDesc": "In-line editing: Double-click on a field to edit, then press Enter to save."
+                        },
+                        {
+                            "shortDesc": "Description text box: Pressing Enter saves your input instead of creating a new line."
+                        },
+                        {
+                            "shortDesc": "Fuse shortcut for shared AVD: Now available in the Start menu and not removed by monthly maintenance."
+                        },
+                        {
+                            "shortDesc": "To pin Fuse: Go to Start menu → Right-click on Fuse → More → Pin to taskbar. (Do not pin the running taskbar instance.)"
+                        },
+                        {
+                            "shortDesc": "Billing manager layout: Action buttons and header panel are now fixed at the top."
+                        }
+                    ]
+                },
+                {
+                    "shortDesc": "Data Management Enhancements – cleaner data handling for improved clarity.",
+                    "subChanges": [
+                        {
+                            "shortDesc": "Upload entries by Project Code: Helps maintain order and organization."
+                        },
+                        {
+                            "shortDesc": "Zero-hour days now appear as blank instead of zero in Oracle."
+                        },
+                        {
+                            "shortDesc": "Streamlined task setup: Selecting a project in Time Tracking auto-displays Project and Task Code fields."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "releaseDate": "2025-07-21",
+            "version": "1.0.1",
+            "changes": [
+                {
+                    "shortDesc": "Your data’s got a fuse-proof vest now – even if your browser cache goes poof, your Fuse data stays put.",
+                    "subChanges": [
+                        {
+                            "shortDesc": "Auto-backups now every 5 minutes – because time waits for no one, but we’ve got your billing data on a short leash."
+                        },
+                        {
+                            "shortDesc": "Billing manager data and user settings now included in backups – all your setup and sanity, secured."
+                        }
+                    ]
+                },
+                {
+                    "shortDesc": "Accidental wipe? No worries. Fuse can now restore your tracked time, billing manager data, and user settings in one clean sweep.",
+                    "subChanges": []
+                },
+                {
+                    "shortDesc": "Time zone trouble? Fixed. You can now set your preferred time zone right in the app instead of depending on your device’s moody behavior.",
+                    "subChanges": []
+                },
+                {
+                    "shortDesc": "Play/pause all day, any day – you can now control any timesheet whether it’s in the past or the future.",
+                    "subChanges": []
+                }
+            ]
+        }
+    ]
+}
